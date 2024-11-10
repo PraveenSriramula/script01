@@ -1,2 +1,2 @@
 # script01 
-[project URL](https://github.com/PraveenSriramula/script01)
+[project page URL](https://github.com/PraveenSriramula/script01)
