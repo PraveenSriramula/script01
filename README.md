@@ -1,3 +1,3 @@
 # script01
 server performance script 
-(https://github.com/PraveenSriramula/script01)
+[project URL](https://github.com/PraveenSriramula/script01)
