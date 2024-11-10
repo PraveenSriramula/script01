@@ -1,0 +1,5 @@
+###PROCESS###
+* To run the script, save it as server_stats.sh 
+* Give executable pemissions (chmod +x server_stats.sh)
+* execte the script with command (./server_stats.sh)
+* adjust the command to match your environment if necessary.
